@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing and making games.
 - 🌱 I’m currently learning how to code.
 - 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me through twitter.
+- 📫 You can reach me through twitter.
 
 <!---
 coolredplayer/coolredplayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
